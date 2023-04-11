@@ -1,0 +1,49 @@
+﻿  Main.cpp
+D:\EGOR\study\source\repos\Study practice\Estimating\Naive_algorithm.h(41,56): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\EGOR\study\source\repos\Study practice\Estimating\Naive_algorithm.h(71,9): warning C4244: return: преобразование "long double" в "__int64", возможна потеря данных
+D:\EGOR\study\source\repos\Study practice\Estimating\Main.cpp(18,26): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\EGOR\study\source\repos\Study practice\Estimating\Main.cpp(19,26): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\EGOR\study\source\repos\Study practice\Estimating\Main.cpp(20,28): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\EGOR\study\source\repos\Study practice\Estimating\Main.cpp(21,28): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\EGOR\study\source\repos\Study practice\Estimating\Main.cpp(25,26): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\EGOR\study\source\repos\Study practice\Estimating\Main.cpp(26,26): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\EGOR\study\source\repos\Study practice\Estimating\Main.cpp(31,27): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\EGOR\study\source\repos\Study practice\Estimating\Main.cpp(32,27): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\EGOR\study\source\repos\Study practice\Estimating\Main.cpp(70,68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Estimating.vcxproj -> D:\EGOR\study\source\repos\Study practice\x64\Debug\Estimating.exe
